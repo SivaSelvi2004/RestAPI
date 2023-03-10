@@ -1,0 +1,41 @@
+2023-03-09 12:23:43,779 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 19 on LAPTOP-Q2P3NHKB with PID 3504 (C:\Users\SIVA SELVI\eclipse-workspace\logging\target\classes started by SIVA SELVI in C:\Users\SIVA SELVI\eclipse-workspace\logging)
+2023-03-09 12:23:43,803 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-03-09 12:23:45,886 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-03-09 12:23:45,925 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-03-09 12:23:45,931 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 12:23:46,244 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-03-09 12:23:46,245 INFO  ServletWebServerApplicationContext:292 - [] Root WebApplicationContext: initialization completed in 2274 ms
+2023-03-09 12:23:47,259 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-09 12:23:47,284 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 4.469 seconds (JVM running for 6.276)
+2023-03-09 12:25:04,184 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 12:25:04,184 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2023-03-09 12:25:04,192 INFO  FrameworkServlet:547 - [] Completed initialization in 0 ms
+2023-03-09 12:25:04,280 INFO  AppController:14 - [] [getMessage] info message
+2023-03-09 12:25:04,280 WARN  AppController:15 - [] [getMessage] warn message
+2023-03-09 12:25:04,280 ERROR AppController:16 - [] [getMessage] error message
+2023-03-09 12:25:04,288 DEBUG AppController:17 - [] [getMessage] debug message
+2023-03-09 12:25:04,288 TRACE AppController:18 - [] [getMessage] trace message
+2023-03-09 12:25:55,627 INFO  AppController:24 - [] [executing getCustomer() method..] info message
+2023-03-09 12:40:02,749 INFO  SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159 - [] Application shutdown requested.
+2023-03-09 12:40:02,794 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-03-09 12:40:02,798 INFO  DirectJDKLog:173 - [] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-03-09 14:47:01,281 INFO  StartupInfoLogger:55 - [] Starting LoggingApplication using Java 19 on LAPTOP-Q2P3NHKB with PID 28492 (C:\Users\SIVA SELVI\eclipse-workspace\logging\target\classes started by SIVA SELVI in C:\Users\SIVA SELVI\eclipse-workspace\logging)
+2023-03-09 14:47:01,290 INFO  SpringApplication:631 - [] No active profile set, falling back to 1 default profile: "default"
+2023-03-09 14:47:05,197 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-03-09 14:47:05,221 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-03-09 14:47:05,223 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 14:47:05,741 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-03-09 14:47:05,743 INFO  ServletWebServerApplicationContext:292 - [] Root WebApplicationContext: initialization completed in 4272 ms
+2023-03-09 14:47:15,039 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-09 14:47:15,092 INFO  StartupInfoLogger:61 - [] Started LoggingApplication in 16.55 seconds (JVM running for 25.735)
+2023-03-09 14:48:20,899 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 14:48:20,901 INFO  FrameworkServlet:525 - [] Initializing Servlet 'dispatcherServlet'
+2023-03-09 14:48:20,902 INFO  FrameworkServlet:547 - [] Completed initialization in 1 ms
+2023-03-09 14:48:20,965 INFO  AppController:14 - [] [getMessage] info message
+2023-03-09 14:48:20,966 WARN  AppController:15 - [] [getMessage] warn message
+2023-03-09 14:48:20,966 ERROR AppController:16 - [] [getMessage] error message
+2023-03-09 14:48:20,967 DEBUG AppController:17 - [] [getMessage] debug message
+2023-03-09 14:48:20,967 TRACE AppController:18 - [] [getMessage] trace message
+2023-03-09 14:49:49,023 INFO  SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159 - [] Application shutdown requested.
+2023-03-09 14:49:49,049 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-03-09 14:49:49,052 INFO  DirectJDKLog:173 - [] Destroying Spring FrameworkServlet 'dispatcherServlet'
